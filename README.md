@@ -15,3 +15,9 @@
 1. 데이터 전처리 : 평점이 3 이상인 데이터만 추출
 2. 사용자의 **나이, 직업**을 기반으로 영화 추천
 3. 성능 : recall
+
+## 4th Task
+1. SVD 기반 모델
+
+## Autoencoder
+Auto-encoder based model
