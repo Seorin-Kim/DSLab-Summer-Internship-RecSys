@@ -19,5 +19,6 @@
 ## 4th Task
 1. SVD 기반 모델
 
-## Autoencoder
+## AutoEncoder_MovieLens1M
 Auto-encoder based model
+Collaborative Filtering
